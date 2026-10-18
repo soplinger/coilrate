@@ -1,0 +1,10 @@
+# Intake valve spring for a small four-stroke engine
+name = Intake valve spring
+material = music-wire
+wire = 2.0           # mm
+mean_diameter = 16   # mm, mean coil diameter
+active_coils = 6
+ends = closed
+free_length = 35     # mm, installed free length
+load = 40 @ 29       # N at mm (valve open part way)
+load = 80 @ 23       # N at mm (valve fully open)
